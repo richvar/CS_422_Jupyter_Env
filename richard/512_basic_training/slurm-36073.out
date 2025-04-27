@@ -1,0 +1,5 @@
+Usage: train.py [OPTIONS]
+Try 'train.py --help' for help.
+
+Error: Got unexpected extra argument (../transfer_weights/ffhq-res512-mirror-stylegan2-noaug.pkl)
+Training started. Logs will be saved to: ./results/training_log_20250412_163108.txt

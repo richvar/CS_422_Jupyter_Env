@@ -1,0 +1,2 @@
+slurmstepd: error: execve(): launch_train_loop.py: Permission denied
+srun: error: gpu002: task 0: Exited with exit code 13

@@ -1,0 +1,156 @@
+
+Training options:
+{
+  "num_gpus": 1,
+  "image_snapshot_ticks": 1,
+  "network_snapshot_ticks": 1,
+  "metrics": [],
+  "random_seed": 0,
+  "kimg_per_tick": 10,
+  "training_set_kwargs": {
+    "class_name": "training.dataset.ImageFolderDataset",
+    "path": "./datasets/post-impressionist",
+    "use_labels": false,
+    "max_size": 2969,
+    "xflip": false,
+    "resolution": 512
+  },
+  "data_loader_kwargs": {
+    "pin_memory": true,
+    "num_workers": 1,
+    "prefetch_factor": 2
+  },
+  "G_kwargs": {
+    "class_name": "training.networks.Generator",
+    "z_dim": 512,
+    "w_dim": 512,
+    "mapping_kwargs": {
+      "num_layers": 2
+    },
+    "synthesis_kwargs": {
+      "channel_base": 32768,
+      "channel_max": 512,
+      "num_fp16_res": 4,
+      "conv_clamp": 256
+    }
+  },
+  "D_kwargs": {
+    "class_name": "training.networks.Discriminator",
+    "block_kwargs": {},
+    "mapping_kwargs": {},
+    "epilogue_kwargs": {
+      "mbstd_group_size": 4
+    },
+    "channel_base": 32768,
+    "channel_max": 512,
+    "num_fp16_res": 4,
+    "conv_clamp": 256
+  },
+  "G_opt_kwargs": {
+    "class_name": "torch.optim.Adam",
+    "lr": 0.0025,
+    "betas": [
+      0,
+      0.99
+    ],
+    "eps": 1e-08
+  },
+  "D_opt_kwargs": {
+    "class_name": "torch.optim.Adam",
+    "lr": 0.0025,
+    "betas": [
+      0,
+      0.99
+    ],
+    "eps": 1e-08
+  },
+  "loss_kwargs": {
+    "class_name": "training.loss.StyleGAN2Loss",
+    "r1_gamma": 6.5536
+  },
+  "total_kimg": 25000,
+  "batch_size": 8,
+  "batch_gpu": 8,
+  "ema_kimg": 2.5,
+  "ema_rampup": 0.05,
+  "ada_target": 0.6,
+  "augment_kwargs": {
+    "class_name": "training.augment.AugmentPipe",
+    "xflip": 1,
+    "rotate90": 1,
+    "xint": 1,
+    "scale": 1,
+    "rotate": 1,
+    "aniso": 1,
+    "xfrac": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "lumaflip": 1,
+    "hue": 1,
+    "saturation": 1
+  },
+  "run_dir": "./results/00001-post-impressionist-auto1-ada"
+}
+
+Output directory:   ./results/00001-post-impressionist-auto1-ada
+Training data:      ./datasets/post-impressionist
+Training duration:  25000 kimg
+Number of GPUs:     1
+Number of images:   2969
+Image resolution:   512
+Conditional model:  False
+Dataset x-flips:    False
+
+Creating output directory...
+Launching processes...
+Loading training set...
+/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/torch/cuda/__init__.py:143: UserWarning: 
+NVIDIA A30 with CUDA capability sm_80 is not compatible with the current PyTorch installation.
+The current PyTorch install supports CUDA capabilities sm_37 sm_50 sm_60 sm_70.
+If you want to use the NVIDIA A30 GPU with PyTorch, please check the instructions at https://pytorch.org/get-started/locally/
+
+  warnings.warn(incompatible_device_warn.format(device_name, capability, " ".join(arch_list), device_name))
+
+Num images:  2969
+Image shape: [3, 512, 512]
+Label shape: [0]
+
+Constructing networks...
+Traceback (most recent call last):
+  File "/home/s25vargason1/tess/stylegan2-ada-pytorch/train.py", line 544, in <module>
+    main() # pylint: disable=no-value-for-parameter
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/core.py", line 1161, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/core.py", line 1082, in main
+    rv = self.invoke(ctx)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/core.py", line 1443, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/core.py", line 788, in invoke
+    return __callback(*args, **kwargs)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/decorators.py", line 33, in new_func
+    return f(get_current_context(), *args, **kwargs)
+  File "/home/s25vargason1/tess/stylegan2-ada-pytorch/train.py", line 537, in main
+    subprocess_fn(rank=0, args=args, temp_dir=temp_dir)
+  File "/home/s25vargason1/tess/stylegan2-ada-pytorch/train.py", line 388, in subprocess_fn
+    training_loop.training_loop(rank=rank, **args)
+  File "/home/s25vargason1/tess/stylegan2-ada-pytorch/training/training_loop.py", line 166, in training_loop
+    img = misc.print_module_summary(G, [z, c])
+  File "/home/s25vargason1/tess/stylegan2-ada-pytorch/torch_utils/misc.py", line 212, in print_module_summary
+    outputs = module(*inputs)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1120, in _call_impl
+    result = forward_call(*input, **kwargs)
+  File "/home/s25vargason1/tess/stylegan2-ada-pytorch/training/networks.py", line 498, in forward
+    ws = self.mapping(z, c, truncation_psi=truncation_psi, truncation_cutoff=truncation_cutoff)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1120, in _call_impl
+    result = forward_call(*input, **kwargs)
+  File "/home/s25vargason1/tess/stylegan2-ada-pytorch/training/networks.py", line 220, in forward
+    x = normalize_2nd_moment(z.to(torch.float32))
+  File "/home/s25vargason1/tess/stylegan2-ada-pytorch/torch_utils/misc.py", line 101, in decorator
+    return fn(*args, **kwargs)
+  File "/home/s25vargason1/tess/stylegan2-ada-pytorch/training/networks.py", line 22, in normalize_2nd_moment
+    return x * (x.square().mean(dim=dim, keepdim=True) + eps).rsqrt()
+RuntimeError: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call,so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1.
+✅ Training started! Logs will be saved to:
+  ./results/training_log_20250423_232557.txt

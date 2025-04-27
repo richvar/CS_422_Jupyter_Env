@@ -1,0 +1,7 @@
+Usage: train.py [OPTIONS]
+Try 'train.py --help' for help.
+
+Error: Got unexpected extra argument (')
+sh: line 8: --resume=../transfer_weights/ffhq-res512-mirror-stylegan2-noaug.pkl: No such file or directory
+✅ Training started! Logs will be saved to:
+  ./results/training_log_20250424_075752.txt

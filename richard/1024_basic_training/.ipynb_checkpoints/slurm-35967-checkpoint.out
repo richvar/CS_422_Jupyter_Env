@@ -1,0 +1,7 @@
+Extracting images...
+✅ Done! Extracted to: ./images
+You're in '/home/s25vargason1/richard/1024_basic_training', not inside the 'stylegan2-ada-pytorch' folder.
+Use `%cd path/to/stylegan2-ada-pytorch` to navigate there before running this cell.
+Source folder does not exist: ../images/full
+Training started in background. Logs will be saved to:
+ ./results/training_log_20250411_211211.txt

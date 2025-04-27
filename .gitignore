@@ -1,0 +1,31 @@
+# Ignore shell and system config files
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.zshrc
+.viminfo
+
+# Ignore user config/data folders
+.cache/
+.conda/
+.ipython/
+.jupyter/
+.local/
+.ssh/
+
+# Ignore all .pkl files
+*.pkl
+
+# Ignore all .jpg files
+*.jpg
+
+# Ignore all .zip files
+*.zip
+
+# Ignore all .png files
+*.png
+
+# Ignore the entire miniconda3 directory
+miniconda3/
+

@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/home/s25vargason1/gabe/stylegan2-ada-pytorch/train.py", line 1, in <module>
+    dam# Copyright (c) 2021, NVIDIA CORPORATION.  All rights reserved.
+NameError: name 'dam' is not defined
+Training started. Logs will be saved to: ./results/training_log_20250426_114605.txt

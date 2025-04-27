@@ -1,0 +1,295 @@
+
+Training options:
+{
+  "num_gpus": 1,
+  "image_snapshot_ticks": 1,
+  "network_snapshot_ticks": 1,
+  "metrics": [
+    "fid50k_full"
+  ],
+  "random_seed": 0,
+  "training_set_kwargs": {
+    "class_name": "training.dataset.ImageFolderDataset",
+    "path": "./datasets/post-impressionist",
+    "use_labels": false,
+    "max_size": 2931,
+    "xflip": false,
+    "resolution": 512
+  },
+  "data_loader_kwargs": {
+    "pin_memory": true,
+    "num_workers": 1,
+    "prefetch_factor": 2
+  },
+  "G_kwargs": {
+    "class_name": "training.networks.Generator",
+    "z_dim": 512,
+    "w_dim": 512,
+    "mapping_kwargs": {
+      "num_layers": 2
+    },
+    "synthesis_kwargs": {
+      "channel_base": 32768,
+      "channel_max": 512,
+      "num_fp16_res": 4,
+      "conv_clamp": 256
+    }
+  },
+  "D_kwargs": {
+    "class_name": "training.networks.Discriminator",
+    "block_kwargs": {},
+    "mapping_kwargs": {},
+    "epilogue_kwargs": {
+      "mbstd_group_size": 4
+    },
+    "channel_base": 32768,
+    "channel_max": 512,
+    "num_fp16_res": 4,
+    "conv_clamp": 256
+  },
+  "G_opt_kwargs": {
+    "class_name": "torch.optim.Adam",
+    "lr": 0.0025,
+    "betas": [
+      0,
+      0.99
+    ],
+    "eps": 1e-08
+  },
+  "D_opt_kwargs": {
+    "class_name": "torch.optim.Adam",
+    "lr": 0.0025,
+    "betas": [
+      0,
+      0.99
+    ],
+    "eps": 1e-08
+  },
+  "loss_kwargs": {
+    "class_name": "training.loss.StyleGAN2Loss",
+    "r1_gamma": 30.0
+  },
+  "total_kimg": 1000,
+  "batch_size": 8,
+  "batch_gpu": 8,
+  "ema_kimg": 2.5,
+  "ema_rampup": null,
+  "ada_target": 0.6,
+  "augment_kwargs": {
+    "class_name": "training.augment.AugmentPipe",
+    "xflip": 1,
+    "rotate90": 1,
+    "xint": 1,
+    "scale": 1,
+    "rotate": 1,
+    "aniso": 1,
+    "xfrac": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "lumaflip": 1,
+    "hue": 1,
+    "saturation": 1
+  },
+  "resume_pkl": "../transfer_weights/ffhq-res512-mirror-stylegan2-noaug.pkl",
+  "ada_kimg": 100,
+  "run_dir": "./results/00007-post-impressionist-auto1-gamma30-kimg1000-batch8-ada-resumecustom"
+}
+
+Output directory:   ./results/00007-post-impressionist-auto1-gamma30-kimg1000-batch8-ada-resumecustom
+Training data:      ./datasets/post-impressionist
+Training duration:  1000 kimg
+Number of GPUs:     1
+Number of images:   2931
+Image resolution:   512
+Conditional model:  False
+Dataset x-flips:    False
+
+Creating output directory...
+Launching processes...
+Loading training set...
+
+Num images:  2931
+Image shape: [3, 512, 512]
+Label shape: [0]
+
+Constructing networks...
+Resuming from "../transfer_weights/ffhq-res512-mirror-stylegan2-noaug.pkl"
+Setting up PyTorch plugin "bias_act_plugin"... Done.
+Setting up PyTorch plugin "upfirdn2d_plugin"... Done.
+
+Generator             Parameters  Buffers  Output shape        Datatype
+---                   ---         ---      ---                 ---     
+mapping.fc0           262656      -        [8, 512]            float32 
+mapping.fc1           262656      -        [8, 512]            float32 
+mapping               -           512      [8, 16, 512]        float32 
+synthesis.b4.conv1    2622465     32       [8, 512, 4, 4]      float32 
+synthesis.b4.torgb    264195      -        [8, 3, 4, 4]        float32 
+synthesis.b4:0        8192        16       [8, 512, 4, 4]      float32 
+synthesis.b4:1        -           -        [8, 512, 4, 4]      float32 
+synthesis.b8.conv0    2622465     80       [8, 512, 8, 8]      float32 
+synthesis.b8.conv1    2622465     80       [8, 512, 8, 8]      float32 
+synthesis.b8.torgb    264195      -        [8, 3, 8, 8]        float32 
+synthesis.b8:0        -           16       [8, 512, 8, 8]      float32 
+synthesis.b8:1        -           -        [8, 512, 8, 8]      float32 
+synthesis.b16.conv0   2622465     272      [8, 512, 16, 16]    float32 
+synthesis.b16.conv1   2622465     272      [8, 512, 16, 16]    float32 
+synthesis.b16.torgb   264195      -        [8, 3, 16, 16]      float32 
+synthesis.b16:0       -           16       [8, 512, 16, 16]    float32 
+synthesis.b16:1       -           -        [8, 512, 16, 16]    float32 
+synthesis.b32.conv0   2622465     1040     [8, 512, 32, 32]    float32 
+synthesis.b32.conv1   2622465     1040     [8, 512, 32, 32]    float32 
+synthesis.b32.torgb   264195      -        [8, 3, 32, 32]      float32 
+synthesis.b32:0       -           16       [8, 512, 32, 32]    float32 
+synthesis.b32:1       -           -        [8, 512, 32, 32]    float32 
+synthesis.b64.conv0   2622465     4112     [8, 512, 64, 64]    float16 
+synthesis.b64.conv1   2622465     4112     [8, 512, 64, 64]    float16 
+synthesis.b64.torgb   264195      -        [8, 3, 64, 64]      float16 
+synthesis.b64:0       -           16       [8, 512, 64, 64]    float16 
+synthesis.b64:1       -           -        [8, 512, 64, 64]    float32 
+synthesis.b128.conv0  1442561     16400    [8, 256, 128, 128]  float16 
+synthesis.b128.conv1  721409      16400    [8, 256, 128, 128]  float16 
+synthesis.b128.torgb  132099      -        [8, 3, 128, 128]    float16 
+synthesis.b128:0      -           16       [8, 256, 128, 128]  float16 
+synthesis.b128:1      -           -        [8, 256, 128, 128]  float32 
+synthesis.b256.conv0  426369      65552    [8, 128, 256, 256]  float16 
+synthesis.b256.conv1  213249      65552    [8, 128, 256, 256]  float16 
+synthesis.b256.torgb  66051       -        [8, 3, 256, 256]    float16 
+synthesis.b256:0      -           16       [8, 128, 256, 256]  float16 
+synthesis.b256:1      -           -        [8, 128, 256, 256]  float32 
+synthesis.b512.conv0  139457      262160   [8, 64, 512, 512]   float16 
+synthesis.b512.conv1  69761       262160   [8, 64, 512, 512]   float16 
+synthesis.b512.torgb  33027       -        [8, 3, 512, 512]    float16 
+synthesis.b512:0      -           16       [8, 64, 512, 512]   float16 
+synthesis.b512:1      -           -        [8, 64, 512, 512]   float32 
+---                   ---         ---      ---                 ---     
+Total                 28700647    699904   -                   -       
+
+
+Discriminator  Parameters  Buffers  Output shape        Datatype
+---            ---         ---      ---                 ---     
+b512.fromrgb   256         16       [8, 64, 512, 512]   float16 
+b512.skip      8192        16       [8, 128, 256, 256]  float16 
+b512.conv0     36928       16       [8, 64, 512, 512]   float16 
+b512.conv1     73856       16       [8, 128, 256, 256]  float16 
+b512           -           16       [8, 128, 256, 256]  float16 
+b256.skip      32768       16       [8, 256, 128, 128]  float16 
+b256.conv0     147584      16       [8, 128, 256, 256]  float16 
+b256.conv1     295168      16       [8, 256, 128, 128]  float16 
+b256           -           16       [8, 256, 128, 128]  float16 
+b128.skip      131072      16       [8, 512, 64, 64]    float16 
+b128.conv0     590080      16       [8, 256, 128, 128]  float16 
+b128.conv1     1180160     16       [8, 512, 64, 64]    float16 
+b128           -           16       [8, 512, 64, 64]    float16 
+b64.skip       262144      16       [8, 512, 32, 32]    float16 
+b64.conv0      2359808     16       [8, 512, 64, 64]    float16 
+b64.conv1      2359808     16       [8, 512, 32, 32]    float16 
+b64            -           16       [8, 512, 32, 32]    float16 
+b32.skip       262144      16       [8, 512, 16, 16]    float32 
+b32.conv0      2359808     16       [8, 512, 32, 32]    float32 
+b32.conv1      2359808     16       [8, 512, 16, 16]    float32 
+b32            -           16       [8, 512, 16, 16]    float32 
+b16.skip       262144      16       [8, 512, 8, 8]      float32 
+b16.conv0      2359808     16       [8, 512, 16, 16]    float32 
+b16.conv1      2359808     16       [8, 512, 8, 8]      float32 
+b16            -           16       [8, 512, 8, 8]      float32 
+b8.skip        262144      16       [8, 512, 4, 4]      float32 
+b8.conv0       2359808     16       [8, 512, 8, 8]      float32 
+b8.conv1       2359808     16       [8, 512, 4, 4]      float32 
+b8             -           16       [8, 512, 4, 4]      float32 
+b4.mbstd       -           -        [8, 513, 4, 4]      float32 
+b4.conv        2364416     16       [8, 512, 4, 4]      float32 
+b4.fc          4194816     -        [8, 512]            float32 
+b4.out         513         -        [8, 1]              float32 
+---            ---         ---      ---                 ---     
+Total          28982849    480      -                   -       
+
+Setting up augmentation...
+Distributing across 1 GPUs...
+Setting up training phases...
+Exporting sample images...
+Initializing logs...
+Skipping tfevents export: No module named 'tensorboard'
+Training for 1000 kimg...
+
+tick 0     kimg 0.0      time 2m 51s       sec/tick 39.4    sec/kimg 4926.95 maintenance 131.9  cpumem 5.87   gpumem 12.73  augment 0.000
+Evaluating metrics...
+Traceback (most recent call last):
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/urllib3/connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+OSError: [Errno 101] Network is unreachable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/urllib3/connection.py", line 704, in connect
+    self.sock = sock = self._new_conn()
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/urllib3/connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7fe11bff6490>: Failed to establish a new connection: [Errno 101] Network is unreachable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='nvlabs-fi-cdn.nvidia.com', port=443): Max retries exceeded with url: /stylegan2-ada-pytorch/pretrained/metrics/inception-2015-12-05.pt (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe11bff6490>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/s25vargason1/gabe/stylegan2-ada-pytorch/train.py", line 544, in <module>
+    main() # pylint: disable=no-value-for-parameter
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/core.py", line 1161, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/core.py", line 1082, in main
+    rv = self.invoke(ctx)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/core.py", line 1443, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/core.py", line 788, in invoke
+    return __callback(*args, **kwargs)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/decorators.py", line 33, in new_func
+    return f(get_current_context(), *args, **kwargs)
+  File "/home/s25vargason1/gabe/stylegan2-ada-pytorch/train.py", line 537, in main
+    subprocess_fn(rank=0, args=args, temp_dir=temp_dir)
+  File "/home/s25vargason1/gabe/stylegan2-ada-pytorch/train.py", line 388, in subprocess_fn
+    training_loop.training_loop(rank=rank, **args)
+  File "/home/s25vargason1/gabe/stylegan2-ada-pytorch/training/training_loop.py", line 374, in training_loop
+    result_dict = metric_main.calc_metric(metric=metric, G=snapshot_data['G_ema'],
+  File "/home/s25vargason1/gabe/stylegan2-ada-pytorch/metrics/metric_main.py", line 45, in calc_metric
+    results = _metric_dict[metric](opts)
+  File "/home/s25vargason1/gabe/stylegan2-ada-pytorch/metrics/metric_main.py", line 85, in fid50k_full
+    fid = frechet_inception_distance.compute_fid(opts, max_real=None, num_gen=50000)
+  File "/home/s25vargason1/gabe/stylegan2-ada-pytorch/metrics/frechet_inception_distance.py", line 25, in compute_fid
+    mu_real, sigma_real = metric_utils.compute_feature_stats_for_dataset(
+  File "/home/s25vargason1/gabe/stylegan2-ada-pytorch/metrics/metric_utils.py", line 211, in compute_feature_stats_for_dataset
+    detector = get_feature_detector(url=detector_url, device=opts.device, num_gpus=opts.num_gpus, rank=opts.rank, verbose=progress.verbose)
+  File "/home/s25vargason1/gabe/stylegan2-ada-pytorch/metrics/metric_utils.py", line 47, in get_feature_detector
+    with dnnlib.util.open_url(url, verbose=(verbose and is_leader)) as f:
+  File "/home/s25vargason1/gabe/stylegan2-ada-pytorch/dnnlib/util.py", line 432, in open_url
+    with session.get(url) as res:
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/requests/sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/requests/adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='nvlabs-fi-cdn.nvidia.com', port=443): Max retries exceeded with url: /stylegan2-ada-pytorch/pretrained/metrics/inception-2015-12-05.pt (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe11bff6490>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+Training started. Logs will be saved to: ./results/training_log_20250424_101752.txt

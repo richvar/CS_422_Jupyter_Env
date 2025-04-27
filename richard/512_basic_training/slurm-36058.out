@@ -1,0 +1,192 @@
+
+Training options:
+{
+  "num_gpus": 1,
+  "image_snapshot_ticks": 1,
+  "network_snapshot_ticks": 1,
+  "metrics": [
+    "fid50k_full"
+  ],
+  "random_seed": 0,
+  "kimg_per_tick": 10,
+  "training_set_kwargs": {
+    "class_name": "training.dataset.ImageFolderDataset",
+    "path": "./datasets/post-impressionist",
+    "use_labels": false,
+    "max_size": 4523,
+    "xflip": false,
+    "resolution": 512
+  },
+  "data_loader_kwargs": {
+    "pin_memory": true,
+    "num_workers": 3,
+    "prefetch_factor": 2
+  },
+  "G_kwargs": {
+    "class_name": "training.networks.Generator",
+    "z_dim": 512,
+    "w_dim": 512,
+    "mapping_kwargs": {
+      "num_layers": 2
+    },
+    "synthesis_kwargs": {
+      "channel_base": 32768,
+      "channel_max": 512,
+      "num_fp16_res": 4,
+      "conv_clamp": 256
+    }
+  },
+  "D_kwargs": {
+    "class_name": "training.networks.Discriminator",
+    "block_kwargs": {},
+    "mapping_kwargs": {},
+    "epilogue_kwargs": {
+      "mbstd_group_size": 4
+    },
+    "channel_base": 32768,
+    "channel_max": 512,
+    "num_fp16_res": 4,
+    "conv_clamp": 256
+  },
+  "G_opt_kwargs": {
+    "class_name": "torch.optim.Adam",
+    "lr": 0.0025,
+    "betas": [
+      0,
+      0.99
+    ],
+    "eps": 1e-08
+  },
+  "D_opt_kwargs": {
+    "class_name": "torch.optim.Adam",
+    "lr": 0.0025,
+    "betas": [
+      0,
+      0.99
+    ],
+    "eps": 1e-08
+  },
+  "loss_kwargs": {
+    "class_name": "training.loss.StyleGAN2Loss",
+    "r1_gamma": 6.5536
+  },
+  "total_kimg": 25000,
+  "batch_size": 8,
+  "batch_gpu": 8,
+  "ema_kimg": 2.5,
+  "ema_rampup": null,
+  "ada_target": 0.6,
+  "augment_kwargs": {
+    "class_name": "training.augment.AugmentPipe",
+    "xflip": 1,
+    "rotate90": 1,
+    "xint": 1,
+    "scale": 1,
+    "rotate": 1,
+    "aniso": 1,
+    "xfrac": 1,
+    "brightness": 1,
+    "contrast": 1,
+    "lumaflip": 1,
+    "hue": 1,
+    "saturation": 1
+  },
+  "resume_pkl": "https://nvlabs-fi-cdn.nvidia.com/stylegan2-ada-pytorch/pretrained/transfer-learning-source-nets/ffhq-res512-mirror-stylegan2-noaug.pkl",
+  "ada_kimg": 100,
+  "run_dir": "./results/00003-post-impressionist-auto1-ada-resumeffhq512"
+}
+
+Output directory:   ./results/00003-post-impressionist-auto1-ada-resumeffhq512
+Training data:      ./datasets/post-impressionist
+Training duration:  25000 kimg
+Number of GPUs:     1
+Number of images:   4523
+Image resolution:   512
+Conditional model:  False
+Dataset x-flips:    False
+
+Creating output directory...
+Launching processes...
+Loading training set...
+/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/torch/utils/data/sampler.py:77: UserWarning: `data_source` argument is not used and will be removed in 2.2.0.You may still have custom implementation that utilizes it.
+  warnings.warn(
+/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/torch/utils/data/dataloader.py:624: UserWarning: This DataLoader will create 3 worker processes in total. Our suggested max number of worker in current system is 1, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(
+
+Num images:  4523
+Image shape: [3, 512, 512]
+Label shape: [0]
+
+Constructing networks...
+Resuming from "https://nvlabs-fi-cdn.nvidia.com/stylegan2-ada-pytorch/pretrained/transfer-learning-source-nets/ffhq-res512-mirror-stylegan2-noaug.pkl"
+Downloading https://nvlabs-fi-cdn.nvidia.com/stylegan2-ada-pytorch/pretrained/transfer-learning-source-nets/ffhq-res512-mirror-stylegan2-noaug.pkl ............ failed
+Traceback (most recent call last):
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/urllib3/connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+OSError: [Errno 101] Network is unreachable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/urllib3/connection.py", line 704, in connect
+    self.sock = sock = self._new_conn()
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/urllib3/connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7fc92274ba90>: Failed to establish a new connection: [Errno 101] Network is unreachable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='nvlabs-fi-cdn.nvidia.com', port=443): Max retries exceeded with url: /stylegan2-ada-pytorch/pretrained/transfer-learning-source-nets/ffhq-res512-mirror-stylegan2-noaug.pkl (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc92274ba90>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/train.py", line 544, in <module>
+    main() # pylint: disable=no-value-for-parameter
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/core.py", line 1161, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/core.py", line 1082, in main
+    rv = self.invoke(ctx)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/core.py", line 1443, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/core.py", line 788, in invoke
+    return __callback(*args, **kwargs)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/decorators.py", line 33, in new_func
+    return f(get_current_context(), *args, **kwargs)
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/train.py", line 537, in main
+    subprocess_fn(rank=0, args=args, temp_dir=temp_dir)
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/train.py", line 388, in subprocess_fn
+    training_loop.training_loop(rank=rank, **args)
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/training/training_loop.py", line 157, in training_loop
+    with dnnlib.util.open_url(resume_pkl) as f:
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/dnnlib/util.py", line 432, in open_url
+    with session.get(url) as res:
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/requests/sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/requests/adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='nvlabs-fi-cdn.nvidia.com', port=443): Max retries exceeded with url: /stylegan2-ada-pytorch/pretrained/transfer-learning-source-nets/ffhq-res512-mirror-stylegan2-noaug.pkl (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc92274ba90>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+Training started. Logs will be saved to: ./results/training_log_20250412_134853.txt
