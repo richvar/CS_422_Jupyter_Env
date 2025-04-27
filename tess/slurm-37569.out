@@ -213,3 +213,5 @@ Training for 25000 kimg...
 tick 0     kimg 0.0      time 10m 02s      sec/tick 10.7    sec/kimg 1340.77 maintenance 591.7  cpumem 6.10   gpumem 14.76  augment 0.000
 tick 1     kimg 10.0     time 24m 28s      sec/tick 846.3   sec/kimg 84.63   maintenance 19.7   cpumem 6.19   gpumem 7.28   augment 0.086
 tick 2     kimg 20.0     time 38m 54s      sec/tick 848.8   sec/kimg 84.88   maintenance 16.8   cpumem 6.23   gpumem 7.26   augment 0.165
+tick 3     kimg 30.0     time 53m 29s      sec/tick 850.1   sec/kimg 85.01   maintenance 24.6   cpumem 6.20   gpumem 7.35   augment 0.225
+tick 4     kimg 40.0     time 1h 07m 57s   sec/tick 851.4   sec/kimg 85.14   maintenance 16.8   cpumem 6.20   gpumem 7.30   augment 0.268
