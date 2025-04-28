@@ -1,0 +1,8 @@
+
+🧹 Checking CUDA memory before cleanup:
+  Allocated: 0.00 GiB | Reserved: 0.00 GiB
+
+♻️ Cleaning up...
+
+🧹 Checking CUDA memory after cleanup:
+  Allocated: 0.00 GiB | Reserved: 0.00 GiB

@@ -1,0 +1,8 @@
+
+🔍 Evaluating FID for snapshot at 0 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000000.pkl
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: got SIGCONT
+slurmstepd: error: *** JOB 37581 ON gpu002 CANCELLED AT 2025-04-27T17:22:57 ***
+slurmstepd: error: *** STEP 37581.0 ON gpu002 CANCELLED AT 2025-04-27T17:22:57 ***
+srun: forcing job termination
+srun: error: gpu002: task 0: Terminated

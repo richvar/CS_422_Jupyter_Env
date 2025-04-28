@@ -1,0 +1,14 @@
+
+🔎 Checking real dataset...
+✅ Found 1 real images in /home/s25vargason1/richard/512_basic_training/images/512images
+
+🔍 Evaluating FID for snapshot at 100 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000100.pkl
+Loading network from "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000100.pkl"...
+Dataset options:
+{
+  "class_name": "training.dataset.ImageFolderDataset",
+  "path": "/home/s25vargason1/richard/512_basic_training/images/512images",
+  "resolution": 512,
+  "use_labels": false
+}
+Launching processes...

@@ -1,0 +1,803 @@
+
+🔍 Evaluating FID for snapshot at 100 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000100.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000100.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 130 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000130.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000130.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 160 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000160.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000160.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 190 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000190.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000190.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 220 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000220.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000220.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 250 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000250.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000250.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 280 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000280.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000280.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 310 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000310.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000310.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 340 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000340.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000340.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 370 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000370.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000370.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 400 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000400.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000400.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 430 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000430.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000430.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 460 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000460.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000460.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 490 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000490.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000490.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 520 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000520.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000520.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 550 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000550.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000550.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 580 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000580.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000580.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 610 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000610.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000610.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 640 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000640.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000640.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 670 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000670.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000670.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 700 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000700.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000700.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 730 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000730.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000730.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 760 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000760.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000760.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 790 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000790.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000790.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 820 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000820.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000820.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 850 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000850.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000850.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 880 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000880.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000880.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 910 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000910.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000910.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 940 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000940.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000940.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 970 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000970.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000970.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1000 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001000.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001000.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1030 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001030.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001030.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1060 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001060.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001060.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1090 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001090.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001090.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1120 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001120.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001120.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1150 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001150.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001150.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1180 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001180.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001180.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1210 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001210.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001210.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1240 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001240.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001240.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1270 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001270.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001270.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1300 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001300.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001300.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1330 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001330.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001330.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1360 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001360.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001360.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1390 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001390.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001390.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1420 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001420.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001420.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1450 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001450.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001450.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1480 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001480.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001480.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1510 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001510.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001510.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1540 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001540.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001540.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1570 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001570.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001570.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1600 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001600.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001600.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1630 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001630.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001630.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1660 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001660.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001660.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1690 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001690.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001690.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1720 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001720.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001720.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1750 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001750.pkl
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 20, in <module>
+    from metrics import metric_main
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 15, in <module>
+    from . import metric_utils
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 219
+    images = images.repeat([1, 3, 1, 1])
+    ^
+IndentationError: expected an indented block
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001750.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 1780 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001780.pkl
+Loading network from "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001780.pkl"...
+Dataset options:
+{
+  "class_name": "training.dataset.ImageFolderDataset",
+  "path": "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/datasets/post-impressionist",
+  "resolution": 512,
+  "use_labels": false
+}
+Launching processes...
+Setting up PyTorch plugin "bias_act_plugin"... Done.
+Setting up PyTorch plugin "upfirdn2d_plugin"... Done.
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: got SIGCONT
+slurmstepd: error: *** JOB 37586 ON gpu002 CANCELLED AT 2025-04-27T17:42:02 ***
+slurmstepd: error: *** STEP 37586.0 ON gpu002 CANCELLED AT 2025-04-27T17:42:02 ***
+srun: forcing job termination
+srun: error: gpu002: task 0: Terminated

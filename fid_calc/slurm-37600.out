@@ -1,0 +1,29 @@
+📥 Loading Inception model...
+📥 Loading real images...
+🧮 Computing real image features...
+
+🔍 Evaluating snapshot 100 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000100.pkl
+🖼️ Generating 4000 fake images...
+Setting up PyTorch plugin "bias_act_plugin"... Done.
+Setting up PyTorch plugin "upfirdn2d_plugin"... Done.
+Traceback (most recent call last):
+  File "/home/s25vargason1/fid_calc/fid_calc.py", line 100, in <module>
+    img = G(z=z, c=c, truncation_psi=1.0, noise_mode='const')
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "<string>", line 499, in forward
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "<string>", line 471, in forward
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "<string>", line 406, in forward
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "<string>", line 304, in forward
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/torch_utils/ops/bias_act.py", line 88, in bias_act
+    return _bias_act_cuda(dim=dim, act=act, alpha=alpha, gain=gain, clamp=clamp).apply(x, b)
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/torch_utils/ops/bias_act.py", line 153, in forward
+    y = _plugin.bias_act(x, b, _null_tensor, _null_tensor, _null_tensor, 0, dim, spec.cuda_idx, alpha, gain, clamp)
+RuntimeError: CUDA out of memory. Tried to allocate 32.00 MiB (GPU 0; 23.50 GiB total capacity; 10.43 GiB already allocated; 11.38 MiB free; 11.09 GiB reserved in total by PyTorch)
+srun: error: gpu002: task 0: Exited with exit code 1

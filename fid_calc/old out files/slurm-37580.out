@@ -1,0 +1,1988 @@
+
+🔍 Evaluating FID for snapshot at 0 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000000.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000000.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 10 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000010.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000010.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 20 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000020.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000020.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 30 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000030.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000030.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 40 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000040.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000040.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 50 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000050.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000050.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 60 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000060.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000060.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 70 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000070.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000070.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 80 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000080.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000080.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 90 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000090.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000090.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 100 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000100.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000100.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 110 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000110.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000110.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 120 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000120.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000120.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 130 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000130.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000130.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 140 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000140.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000140.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 150 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000150.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000150.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 160 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000160.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000160.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 170 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000170.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000170.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 180 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000180.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000180.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 190 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000190.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000190.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 200 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000200.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000200.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 210 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000210.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000210.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 220 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000220.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000220.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 230 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000230.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000230.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 240 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000240.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000240.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 250 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000250.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000250.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 260 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000260.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000260.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 270 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000270.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000270.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 280 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000280.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000280.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 290 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000290.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000290.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 300 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000300.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000300.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 310 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000310.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000310.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 320 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000320.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000320.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 330 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000330.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000330.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 340 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000340.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000340.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 350 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000350.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000350.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 360 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000360.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000360.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 370 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000370.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000370.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 380 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000380.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000380.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 390 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000390.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000390.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 400 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000400.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000400.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 410 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000410.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000410.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 420 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000420.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000420.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 430 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000430.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000430.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 440 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000440.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000440.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 450 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000450.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000450.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 460 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000460.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000460.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 470 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000470.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000470.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 480 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000480.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000480.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 490 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000490.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000490.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 500 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000500.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000500.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 510 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000510.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000510.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 520 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000520.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000520.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 530 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000530.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000530.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 540 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000540.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000540.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 550 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000550.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000550.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 560 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000560.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000560.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 570 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000570.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000570.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 580 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000580.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000580.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 590 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000590.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000590.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 600 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000600.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000600.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 610 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000610.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000610.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 620 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000620.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000620.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 630 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000630.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000630.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 640 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000640.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000640.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 650 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000650.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000650.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 660 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000660.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000660.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 670 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000670.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000670.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 680 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000680.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000680.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 690 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000690.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000690.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 700 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000700.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000700.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 710 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000710.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000710.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 720 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000720.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000720.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 730 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000730.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000730.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 740 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000740.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000740.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 750 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000750.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000750.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 760 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000760.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000760.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 770 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000770.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000770.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 780 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000780.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000780.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 790 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000790.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000790.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 800 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000800.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000800.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 810 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000810.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000810.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 820 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000820.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000820.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 830 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000830.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000830.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 840 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000840.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000840.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 850 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000850.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000850.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 860 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000860.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000860.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 870 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000870.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000870.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 880 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000880.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000880.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 890 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000890.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000890.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 900 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000900.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000900.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 910 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000910.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000910.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 920 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000920.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000920.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 930 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000930.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000930.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 940 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000940.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000940.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 950 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000950.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000950.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 960 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000960.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000960.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 970 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000970.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000970.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 980 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000980.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000980.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 990 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000990.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000990.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1000 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001000.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001000.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1010 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001010.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001010.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1020 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001020.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001020.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1030 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001030.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001030.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1040 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001040.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001040.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1050 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001050.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001050.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1060 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001060.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001060.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1070 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001070.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001070.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1080 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001080.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001080.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1090 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001090.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001090.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1100 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001100.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001100.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1110 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001110.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001110.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1120 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001120.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001120.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1130 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001130.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001130.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1140 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001140.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001140.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1150 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001150.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001150.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1160 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001160.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001160.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1170 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001170.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001170.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1180 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001180.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001180.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1190 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001190.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001190.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1200 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001200.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001200.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1210 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001210.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001210.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1220 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001220.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001220.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1230 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001230.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001230.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1240 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001240.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001240.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1250 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001250.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001250.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1260 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001260.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001260.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1270 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001270.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001270.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1280 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001280.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001280.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1290 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001290.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001290.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1300 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001300.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001300.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1310 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001310.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001310.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1320 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001320.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001320.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1330 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001330.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001330.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1340 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001340.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001340.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1350 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001350.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001350.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1360 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001360.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001360.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1370 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001370.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001370.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1380 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001380.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001380.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1390 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001390.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001390.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1400 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001400.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001400.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1410 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001410.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001410.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1420 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001420.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001420.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1430 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001430.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001430.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1440 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001440.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001440.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1450 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001450.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001450.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1460 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001460.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001460.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1470 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001470.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001470.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1480 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001480.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001480.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1490 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001490.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001490.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1500 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001500.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001500.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1510 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001510.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001510.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1520 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001520.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001520.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1530 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001530.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001530.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1540 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001540.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001540.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1550 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001550.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001550.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1560 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001560.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001560.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1570 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001570.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001570.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1580 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001580.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001580.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1590 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001590.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001590.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1600 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001600.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001600.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1610 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001610.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001610.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1620 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001620.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001620.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1630 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001630.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001630.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1640 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001640.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001640.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1650 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001650.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001650.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1660 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001660.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001660.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1670 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001670.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001670.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1680 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001680.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001680.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1690 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001690.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001690.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1700 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001700.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001700.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1710 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001710.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001710.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1720 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001720.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001720.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1730 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001730.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001730.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1740 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001740.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001740.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1750 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001750.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001750.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1760 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001760.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001760.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1770 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001770.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001770.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1780 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001780.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001780.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1790 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001790.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001790.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1800 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001800.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001800.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1810 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001810.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001810.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1820 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001820.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001820.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1830 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001830.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001830.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1840 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001840.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001840.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1850 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001850.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001850.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1860 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001860.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001860.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1870 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001870.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001870.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1880 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001880.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001880.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1890 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001890.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001890.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1900 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001900.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001900.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1910 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001910.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001910.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1920 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001920.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001920.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1930 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001930.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001930.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1940 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001940.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001940.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1950 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001950.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001950.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1960 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001960.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001960.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1970 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001970.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001970.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1980 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001980.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001980.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 1990 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001990.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-001990.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 2000 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002000.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002000.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 2010 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002010.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002010.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 2020 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002020.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002020.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 2030 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002030.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002030.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 2040 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002040.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002040.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 2050 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002050.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002050.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 2060 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002060.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002060.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 2070 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002070.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002070.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 2080 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002080.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002080.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 2090 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002090.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002090.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 2100 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002100.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002100.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 2110 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002110.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002110.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 2120 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002120.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002120.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 2130 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002130.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002130.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 2140 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002140.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002140.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 2150 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002150.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002150.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 2160 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002160.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002160.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 2170 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002170.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002170.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 2180 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002180.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002180.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 2190 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002190.pkl
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002190.pkl:
+
+Usage: calc_metrics.py [OPTIONS]
+Try 'calc_metrics.py --help' for help.
+
+Error: No such option: --num-samples
+
+
+🔍 Evaluating FID for snapshot at 2200 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-002200.pkl
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: got SIGCONT
+slurmstepd: error: *** JOB 37580 ON gpu002 CANCELLED AT 2025-04-27T17:04:05 ***
+slurmstepd: error: *** STEP 37580.0 ON gpu002 CANCELLED AT 2025-04-27T17:04:05 ***
+srun: forcing job termination
+srun: error: gpu002: task 0: Terminated

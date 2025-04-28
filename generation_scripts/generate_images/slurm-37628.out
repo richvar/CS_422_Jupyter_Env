@@ -1,0 +1,10 @@
+✅ Selected model for richard: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-010640.pkl
+Using device: cuda
+Output folder ./generated_images prepared.
+Loading network from /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-010640.pkl...
+✅ Network loaded!
+Traceback (most recent call last):
+  File "/home/s25vargason1/generation_scripts/generate_images/generate_grids.py", line 57, in <module>
+    if not seeds:
+NameError: name 'seeds' is not defined
+srun: error: gpu002: task 0: Exited with exit code 1

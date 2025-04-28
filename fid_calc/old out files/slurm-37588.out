@@ -1,0 +1,288 @@
+
+🔍 Evaluating FID for snapshot at 100 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000100.pkl
+Loading network from "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000100.pkl"...
+Dataset options:
+{
+  "class_name": "training.dataset.ImageFolderDataset",
+  "path": "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/datasets/post-impressionist",
+  "resolution": 512,
+  "use_labels": false
+}
+Launching processes...
+Setting up PyTorch plugin "bias_act_plugin"... Done.
+Setting up PyTorch plugin "upfirdn2d_plugin"... Done.
+
+Generator             Parameters  Buffers  Output shape        Datatype
+---                   ---         ---      ---                 ---     
+mapping.fc0           262656      -        [1, 512]            float32 
+mapping.fc1           262656      -        [1, 512]            float32 
+mapping               -           512      [1, 16, 512]        float32 
+synthesis.b4.conv1    2622465     32       [1, 512, 4, 4]      float32 
+synthesis.b4.torgb    264195      -        [1, 3, 4, 4]        float32 
+synthesis.b4:0        8192        16       [1, 512, 4, 4]      float32 
+synthesis.b4:1        -           -        [1, 512, 4, 4]      float32 
+synthesis.b8.conv0    2622465     80       [1, 512, 8, 8]      float32 
+synthesis.b8.conv1    2622465     80       [1, 512, 8, 8]      float32 
+synthesis.b8.torgb    264195      -        [1, 3, 8, 8]        float32 
+synthesis.b8:0        -           16       [1, 512, 8, 8]      float32 
+synthesis.b8:1        -           -        [1, 512, 8, 8]      float32 
+synthesis.b16.conv0   2622465     272      [1, 512, 16, 16]    float32 
+synthesis.b16.conv1   2622465     272      [1, 512, 16, 16]    float32 
+synthesis.b16.torgb   264195      -        [1, 3, 16, 16]      float32 
+synthesis.b16:0       -           16       [1, 512, 16, 16]    float32 
+synthesis.b16:1       -           -        [1, 512, 16, 16]    float32 
+synthesis.b32.conv0   2622465     1040     [1, 512, 32, 32]    float32 
+synthesis.b32.conv1   2622465     1040     [1, 512, 32, 32]    float32 
+synthesis.b32.torgb   264195      -        [1, 3, 32, 32]      float32 
+synthesis.b32:0       -           16       [1, 512, 32, 32]    float32 
+synthesis.b32:1       -           -        [1, 512, 32, 32]    float32 
+synthesis.b64.conv0   2622465     4112     [1, 512, 64, 64]    float16 
+synthesis.b64.conv1   2622465     4112     [1, 512, 64, 64]    float16 
+synthesis.b64.torgb   264195      -        [1, 3, 64, 64]      float16 
+synthesis.b64:0       -           16       [1, 512, 64, 64]    float16 
+synthesis.b64:1       -           -        [1, 512, 64, 64]    float32 
+synthesis.b128.conv0  1442561     16400    [1, 256, 128, 128]  float16 
+synthesis.b128.conv1  721409      16400    [1, 256, 128, 128]  float16 
+synthesis.b128.torgb  132099      -        [1, 3, 128, 128]    float16 
+synthesis.b128:0      -           16       [1, 256, 128, 128]  float16 
+synthesis.b128:1      -           -        [1, 256, 128, 128]  float32 
+synthesis.b256.conv0  426369      65552    [1, 128, 256, 256]  float16 
+synthesis.b256.conv1  213249      65552    [1, 128, 256, 256]  float16 
+synthesis.b256.torgb  66051       -        [1, 3, 256, 256]    float16 
+synthesis.b256:0      -           16       [1, 128, 256, 256]  float16 
+synthesis.b256:1      -           -        [1, 128, 256, 256]  float32 
+synthesis.b512.conv0  139457      262160   [1, 64, 512, 512]   float16 
+synthesis.b512.conv1  69761       262160   [1, 64, 512, 512]   float16 
+synthesis.b512.torgb  33027       -        [1, 3, 512, 512]    float16 
+synthesis.b512:0      -           16       [1, 64, 512, 512]   float16 
+synthesis.b512:1      -           -        [1, 64, 512, 512]   float32 
+---                   ---         ---      ---                 ---     
+Total                 28700647    699904   -                   -       
+
+Calculating fid4k_full...
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 188, in <module>
+    calc_metrics() # pylint: disable=no-value-for-parameter
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/core.py", line 1161, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/core.py", line 1082, in main
+    rv = self.invoke(ctx)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/core.py", line 1443, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/core.py", line 788, in invoke
+    return __callback(*args, **kwargs)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/decorators.py", line 33, in new_func
+    return f(get_current_context(), *args, **kwargs)
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 181, in calc_metrics
+    subprocess_fn(rank=0, args=args, temp_dir=temp_dir)
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 63, in subprocess_fn
+    result_dict = metric_main.calc_metric(metric=metric, G=G, dataset_kwargs=args.dataset_kwargs,
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 45, in calc_metric
+    results = _metric_dict[metric](opts)
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 91, in fid4k_full
+    fid = frechet_inception_distance.compute_fid(opts, max_real=None, num_gen=4000)
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/frechet_inception_distance.py", line 26, in compute_fid
+    mu_real, sigma_real = metric_utils.compute_feature_stats_for_dataset(
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 229, in compute_feature_stats_for_dataset
+    features = detector(images.to(opts.device), **detector_kwargs)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+RuntimeError: MALFORMED INPUT: lanes dont match
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000100.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 130 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000130.pkl
+Loading network from "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000130.pkl"...
+Dataset options:
+{
+  "class_name": "training.dataset.ImageFolderDataset",
+  "path": "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/datasets/post-impressionist",
+  "resolution": 512,
+  "use_labels": false
+}
+Launching processes...
+Setting up PyTorch plugin "bias_act_plugin"... Done.
+Setting up PyTorch plugin "upfirdn2d_plugin"... Done.
+
+Generator             Parameters  Buffers  Output shape        Datatype
+---                   ---         ---      ---                 ---     
+mapping.fc0           262656      -        [1, 512]            float32 
+mapping.fc1           262656      -        [1, 512]            float32 
+mapping               -           512      [1, 16, 512]        float32 
+synthesis.b4.conv1    2622465     32       [1, 512, 4, 4]      float32 
+synthesis.b4.torgb    264195      -        [1, 3, 4, 4]        float32 
+synthesis.b4:0        8192        16       [1, 512, 4, 4]      float32 
+synthesis.b4:1        -           -        [1, 512, 4, 4]      float32 
+synthesis.b8.conv0    2622465     80       [1, 512, 8, 8]      float32 
+synthesis.b8.conv1    2622465     80       [1, 512, 8, 8]      float32 
+synthesis.b8.torgb    264195      -        [1, 3, 8, 8]        float32 
+synthesis.b8:0        -           16       [1, 512, 8, 8]      float32 
+synthesis.b8:1        -           -        [1, 512, 8, 8]      float32 
+synthesis.b16.conv0   2622465     272      [1, 512, 16, 16]    float32 
+synthesis.b16.conv1   2622465     272      [1, 512, 16, 16]    float32 
+synthesis.b16.torgb   264195      -        [1, 3, 16, 16]      float32 
+synthesis.b16:0       -           16       [1, 512, 16, 16]    float32 
+synthesis.b16:1       -           -        [1, 512, 16, 16]    float32 
+synthesis.b32.conv0   2622465     1040     [1, 512, 32, 32]    float32 
+synthesis.b32.conv1   2622465     1040     [1, 512, 32, 32]    float32 
+synthesis.b32.torgb   264195      -        [1, 3, 32, 32]      float32 
+synthesis.b32:0       -           16       [1, 512, 32, 32]    float32 
+synthesis.b32:1       -           -        [1, 512, 32, 32]    float32 
+synthesis.b64.conv0   2622465     4112     [1, 512, 64, 64]    float16 
+synthesis.b64.conv1   2622465     4112     [1, 512, 64, 64]    float16 
+synthesis.b64.torgb   264195      -        [1, 3, 64, 64]      float16 
+synthesis.b64:0       -           16       [1, 512, 64, 64]    float16 
+synthesis.b64:1       -           -        [1, 512, 64, 64]    float32 
+synthesis.b128.conv0  1442561     16400    [1, 256, 128, 128]  float16 
+synthesis.b128.conv1  721409      16400    [1, 256, 128, 128]  float16 
+synthesis.b128.torgb  132099      -        [1, 3, 128, 128]    float16 
+synthesis.b128:0      -           16       [1, 256, 128, 128]  float16 
+synthesis.b128:1      -           -        [1, 256, 128, 128]  float32 
+synthesis.b256.conv0  426369      65552    [1, 128, 256, 256]  float16 
+synthesis.b256.conv1  213249      65552    [1, 128, 256, 256]  float16 
+synthesis.b256.torgb  66051       -        [1, 3, 256, 256]    float16 
+synthesis.b256:0      -           16       [1, 128, 256, 256]  float16 
+synthesis.b256:1      -           -        [1, 128, 256, 256]  float32 
+synthesis.b512.conv0  139457      262160   [1, 64, 512, 512]   float16 
+synthesis.b512.conv1  69761       262160   [1, 64, 512, 512]   float16 
+synthesis.b512.torgb  33027       -        [1, 3, 512, 512]    float16 
+synthesis.b512:0      -           16       [1, 64, 512, 512]   float16 
+synthesis.b512:1      -           -        [1, 64, 512, 512]   float32 
+---                   ---         ---      ---                 ---     
+Total                 28700647    699904   -                   -       
+
+Calculating fid4k_full...
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 188, in <module>
+    calc_metrics() # pylint: disable=no-value-for-parameter
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/core.py", line 1161, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/core.py", line 1082, in main
+    rv = self.invoke(ctx)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/core.py", line 1443, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/core.py", line 788, in invoke
+    return __callback(*args, **kwargs)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/decorators.py", line 33, in new_func
+    return f(get_current_context(), *args, **kwargs)
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 181, in calc_metrics
+    subprocess_fn(rank=0, args=args, temp_dir=temp_dir)
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 63, in subprocess_fn
+    result_dict = metric_main.calc_metric(metric=metric, G=G, dataset_kwargs=args.dataset_kwargs,
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 45, in calc_metric
+    results = _metric_dict[metric](opts)
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 91, in fid4k_full
+    fid = frechet_inception_distance.compute_fid(opts, max_real=None, num_gen=4000)
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/frechet_inception_distance.py", line 26, in compute_fid
+    mu_real, sigma_real = metric_utils.compute_feature_stats_for_dataset(
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 229, in compute_feature_stats_for_dataset
+    features = detector(images.to(opts.device), **detector_kwargs)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+RuntimeError: MALFORMED INPUT: lanes dont match
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000130.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 160 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000160.pkl
+Loading network from "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000160.pkl"...
+Dataset options:
+{
+  "class_name": "training.dataset.ImageFolderDataset",
+  "path": "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/datasets/post-impressionist",
+  "resolution": 512,
+  "use_labels": false
+}
+Launching processes...
+Setting up PyTorch plugin "bias_act_plugin"... Done.
+Setting up PyTorch plugin "upfirdn2d_plugin"... Done.
+
+Generator             Parameters  Buffers  Output shape        Datatype
+---                   ---         ---      ---                 ---     
+mapping.fc0           262656      -        [1, 512]            float32 
+mapping.fc1           262656      -        [1, 512]            float32 
+mapping               -           512      [1, 16, 512]        float32 
+synthesis.b4.conv1    2622465     32       [1, 512, 4, 4]      float32 
+synthesis.b4.torgb    264195      -        [1, 3, 4, 4]        float32 
+synthesis.b4:0        8192        16       [1, 512, 4, 4]      float32 
+synthesis.b4:1        -           -        [1, 512, 4, 4]      float32 
+synthesis.b8.conv0    2622465     80       [1, 512, 8, 8]      float32 
+synthesis.b8.conv1    2622465     80       [1, 512, 8, 8]      float32 
+synthesis.b8.torgb    264195      -        [1, 3, 8, 8]        float32 
+synthesis.b8:0        -           16       [1, 512, 8, 8]      float32 
+synthesis.b8:1        -           -        [1, 512, 8, 8]      float32 
+synthesis.b16.conv0   2622465     272      [1, 512, 16, 16]    float32 
+synthesis.b16.conv1   2622465     272      [1, 512, 16, 16]    float32 
+synthesis.b16.torgb   264195      -        [1, 3, 16, 16]      float32 
+synthesis.b16:0       -           16       [1, 512, 16, 16]    float32 
+synthesis.b16:1       -           -        [1, 512, 16, 16]    float32 
+synthesis.b32.conv0   2622465     1040     [1, 512, 32, 32]    float32 
+synthesis.b32.conv1   2622465     1040     [1, 512, 32, 32]    float32 
+synthesis.b32.torgb   264195      -        [1, 3, 32, 32]      float32 
+synthesis.b32:0       -           16       [1, 512, 32, 32]    float32 
+synthesis.b32:1       -           -        [1, 512, 32, 32]    float32 
+synthesis.b64.conv0   2622465     4112     [1, 512, 64, 64]    float16 
+synthesis.b64.conv1   2622465     4112     [1, 512, 64, 64]    float16 
+synthesis.b64.torgb   264195      -        [1, 3, 64, 64]      float16 
+synthesis.b64:0       -           16       [1, 512, 64, 64]    float16 
+synthesis.b64:1       -           -        [1, 512, 64, 64]    float32 
+synthesis.b128.conv0  1442561     16400    [1, 256, 128, 128]  float16 
+synthesis.b128.conv1  721409      16400    [1, 256, 128, 128]  float16 
+synthesis.b128.torgb  132099      -        [1, 3, 128, 128]    float16 
+synthesis.b128:0      -           16       [1, 256, 128, 128]  float16 
+synthesis.b128:1      -           -        [1, 256, 128, 128]  float32 
+synthesis.b256.conv0  426369      65552    [1, 128, 256, 256]  float16 
+synthesis.b256.conv1  213249      65552    [1, 128, 256, 256]  float16 
+synthesis.b256.torgb  66051       -        [1, 3, 256, 256]    float16 
+synthesis.b256:0      -           16       [1, 128, 256, 256]  float16 
+synthesis.b256:1      -           -        [1, 128, 256, 256]  float32 
+synthesis.b512.conv0  139457      262160   [1, 64, 512, 512]   float16 
+synthesis.b512.conv1  69761       262160   [1, 64, 512, 512]   float16 
+synthesis.b512.torgb  33027       -        [1, 3, 512, 512]    float16 
+synthesis.b512:0      -           16       [1, 64, 512, 512]   float16 
+synthesis.b512:1      -           -        [1, 64, 512, 512]   float32 
+---                   ---         ---      ---                 ---     
+Total                 28700647    699904   -                   -       
+
+Calculating fid4k_full...
+Traceback (most recent call last):
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 188, in <module>
+    calc_metrics() # pylint: disable=no-value-for-parameter
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/core.py", line 1161, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/core.py", line 1082, in main
+    rv = self.invoke(ctx)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/core.py", line 1443, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/core.py", line 788, in invoke
+    return __callback(*args, **kwargs)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/click/decorators.py", line 33, in new_func
+    return f(get_current_context(), *args, **kwargs)
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 181, in calc_metrics
+    subprocess_fn(rank=0, args=args, temp_dir=temp_dir)
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/calc_metrics.py", line 63, in subprocess_fn
+    result_dict = metric_main.calc_metric(metric=metric, G=G, dataset_kwargs=args.dataset_kwargs,
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 45, in calc_metric
+    results = _metric_dict[metric](opts)
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_main.py", line 91, in fid4k_full
+    fid = frechet_inception_distance.compute_fid(opts, max_real=None, num_gen=4000)
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/frechet_inception_distance.py", line 26, in compute_fid
+    mu_real, sigma_real = metric_utils.compute_feature_stats_for_dataset(
+  File "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/metrics/metric_utils.py", line 229, in compute_feature_stats_for_dataset
+    features = detector(images.to(opts.device), **detector_kwargs)
+  File "/home/s25vargason1/miniconda3/envs/venv/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1051, in _call_impl
+    return forward_call(*input, **kwargs)
+RuntimeError: MALFORMED INPUT: lanes dont match
+❌ Error evaluating /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000160.pkl:
+None
+None
+
+🔍 Evaluating FID for snapshot at 190 kimg: /home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000190.pkl
+Loading network from "/home/s25vargason1/richard/512_basic_training/stylegan2-ada-pytorch/results/00008-post-impressionist-auto1-ada-resumecustom/network-snapshot-000190.pkl"...
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: got SIGCONT
+slurmstepd: error: *** JOB 37588 ON gpu002 CANCELLED AT 2025-04-27T17:45:34 ***
+slurmstepd: error: *** STEP 37588.0 ON gpu002 CANCELLED AT 2025-04-27T17:45:34 ***
+srun: forcing job termination
+srun: error: gpu002: task 0: Terminated

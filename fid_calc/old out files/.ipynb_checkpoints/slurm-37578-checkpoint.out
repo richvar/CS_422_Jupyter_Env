@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/home/s25vargason1/fid_calc/fid_calc_and_plot.py", line 5, in <module>
+srun: error: gpu002: task 0: Exited with exit code 1
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
